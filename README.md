@@ -1,1 +1,1 @@
-A backup dot/config files for a various applications
+A backup of dot/config files for a various applications

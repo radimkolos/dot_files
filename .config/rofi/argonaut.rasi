@@ -1,0 +1,59 @@
+configuration {
+	modi: "drun";
+	icon-theme: "ePapirus";
+	width: 2;
+	show-icons: true;
+	drun-display-format: "{icon} {name}";
+	display-drun: "Open";
+	location: 0;
+	disable-history: false;
+}
+
+* {
+	background-color: #181818;
+	text-color: #fffaf4;	
+	show-icons: true;
+}
+
+window {
+	height: 270px;
+	width: 600px;
+	border:  1px;
+	background-color: #fffaf4;
+}
+
+mainbox {
+	padding: 3px;
+}
+
+inputbar {
+	children: [prompt, entry];
+}
+
+prompt {
+	background-color: #fffaf4;
+	padding: 3px 3px 0px;
+	text-color: @background-color;
+}
+
+entry {
+	padding: 3px;
+}
+
+listview {
+    padding: 5px 0px 0px 0px;
+	columns: 2;
+}
+
+element {
+    padding: 1px;
+}
+
+element-icon {
+	size: 16px;
+}
+
+element selected {
+    background-color: #fffaf4;
+    text-color: #1a212e;
+}

@@ -1,0 +1,55 @@
+Xft.dpi: 96
+
+Xcursor.theme: Hackneyed
+Xcursor.size: 16
+
+! ARGONAUT COLORS
+
+! backgrounds
+*.background0: #202020
+*.background1: #303030
+*.background2: #404040
+*.background3: #505050
+*.background4: #151515
+*.background5: #252525
+*.background6: #353535
+*.background7: #454545
+*.background8: #555555
+*.background9: #202020
+
+! special
+*.background: #000000
+*.foreground: #fffaf4
+
+! black
+*.color0: #232323
+*.color8: #444444
+
+! red
+*.color1: #ff000f
+*.color9: #FF4054
+
+! green
+*.color2: #8ce10b
+*.color10: #abe15b
+
+! yellow
+*.color3: #ffb900
+*.color11: #ffd242
+
+! blue
+*.color4: #008df8
+*.color12: #0092ff
+
+! magenta
+*.color5: #6d43a6
+*.color13: #9a5feb
+
+! cyan
+*.color6: #00d8eb
+*.color14: #67fff0
+
+! white
+*.color7: #FFFFFF
+*.color15: #FFFFFF
+
