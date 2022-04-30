@@ -4,7 +4,7 @@
 
 ### **Clang Warnings**
 
--w -Wmost -Weverything
+> -w -Wmost -Weverything
 
 ### **Clang-Tidy Checks**
 
